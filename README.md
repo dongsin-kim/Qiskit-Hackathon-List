@@ -25,7 +25,8 @@
 | 10 | 2020 | Sep 08 - Sep 10 | [Qiskit Hackathon Taiwan 2020](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Taiwan%202020.md) | IBM | |
 | 11 | 2020 | Oct 05 - Oct 09 | [Qiskit Hackathon Global 2020](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Global%202020.md) | IBM's Qiskit Community Team | |
 | 12 | 2021 | Jan 30 - Jan 31 | [MIT iQuHACK 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/iQuHACK%202021.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/) |
-| 13 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Korea 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) | IBM Quantum, KAIST, and SKKU |  |
+| 13 | 2021 | Feb 12 - Feb 13 | [NYU Qiskit Hackathon 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/NYU%20Qiskit%20Hackathon%202021.md) | IBM and NYU | The Association for Computer Machinery chapter at NYU |
+| 14 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Korea 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) | IBM, KAIST, and SKKU |  |
 
 
 ## References
