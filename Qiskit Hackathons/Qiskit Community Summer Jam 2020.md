@@ -2,10 +2,17 @@
 * Event page:
 
 * Github page:
-  * https://github.com/qiskit-community/qiskit-summer-jam-20
+  * [by qiskit-community/qiskit-summer-jam-20](https://github.com/qiskit-community/qiskit-summer-jam-20)
 
 * Projects:
-
+  * [North Carolina Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-north-carolina/submissions/#submissions)
+  * [New England Summer Jam](https://qiskit-community-summer-jam-new-england.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-boston/submissions/#submissions)
+  * [Midwest Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-mid-west/submissions/#submissions)
+  * Denver Summber Jam (comming soon)
+  * [California Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-california/submissions/#submissions)
+  * [Dublin (UCD) Summer Jam](https://www.hackerearth.com/challenges/hackathon/qiskit-community-summer-jam-dublin/submissions/#submissions)
+  * London Summer Jam (comming soon)
+  
 * Recap videos:
 
 * Recap articles:
