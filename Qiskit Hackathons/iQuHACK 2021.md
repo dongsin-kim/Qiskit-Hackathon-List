@@ -1,4 +1,4 @@
-# MIT interdisciplinary Quantum HACKathon 2020
+# MIT interdisciplinary Quantum HACKathon 2021
 * Event page:
   * https://www.iquise.mit.edu/iQuHACK/
 * Github page:
