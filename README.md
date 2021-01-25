@@ -20,13 +20,13 @@
 | 5 | 2019 | Nov 13 - Nov 16 | [CSS Qiskit Hackathon](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/CSS%20Qiskit%20Hackathon.md)                 | University of Birmingham    | Cristian Calauz |
 | 6 | 2019 | Dec 9 - Dec 10 | [Qiskit Hackathon Bilbao](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/Qiskit%20Hackathon%20Bilbao%2019.md)         | IBM, INNOLAB Bilbao, QUTIS Center, and UPV / EHU |  |
 | 7 | 2020 | Jan 31 - Feb 02 | [MIT iQuHACK 2020](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/iQuHACK%202020.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/) |
-| 8 | 2020 | Jun 17 - Jun 26 | [Qiskit Community Summer Jam 2020 (Phase 1)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) | IBM, North Carolina, New England, Midwest, and California area schools |  |
-| 9 | 2020 | Aug 06 - Aug 19 | [Qiskit Community Summer Jam 2020 (Phase 2)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) | IBM, University College Dublin, etc. | |
-| 10 | 2020 | Sep 08 - Sep 10 | [Qiskit Hackathon Taiwan 2020](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Taiwan%202020.md) | IBM | |
-| 11 | 2020 | Oct 05 - Oct 09 | [Qiskit Hackathon Global 2020](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Global%202020.md) | IBM's Qiskit Community Team | |
-| 12 | 2021 | Jan 30 - Jan 31 | [MIT iQuHACK 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/iQuHACK%202021.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/) |
-| 13 | 2021 | Feb 12 - Feb 13 | [NYU Qiskit Hackathon 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/NYU%20Qiskit%20Hackathon%202021.md) | IBM and NYU | The Association for Computer Machinery chapter at NYU |
-| 14 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Korea 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) | IBM, KAIST, and SKKU |  |
+| 8 | 2020 | Jun 17 - Jun 26 | [Qiskit Community Summer Jam (Phase 1)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) | IBM, North Carolina, New England, Midwest, and California area schools |  |
+| 9 | 2020 | Aug 06 - Aug 19 | [Qiskit Community Summer Jam (Phase 2)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) | IBM, University College Dublin, etc. | |
+| 10 | 2020 | Sep 08 - Sep 10 | [Qiskit Hackathon Taiwan](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Taiwan%202020.md) | IBM | |
+| 11 | 2020 | Oct 05 - Oct 09 | [Qiskit Hackathon Global](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Global%202020.md) | IBM's Qiskit Community Team | |
+| 12 | 2021 | Jan 30 - Jan 31 | [MIT iQuHACK](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/iQuHACK%202021.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/) |
+| 13 | 2021 | Feb 12 - Feb 13 | [NYU Qiskit Hackathon](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/NYU%20Qiskit%20Hackathon%202021.md) | IBM and NYU | The Association for Computer Machinery chapter at NYU |
+| 14 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Korea](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) | IBM, KAIST, and SKKU |  |
 
 
 ## References
