@@ -1,4 +1,4 @@
-# Qiskit Ccmmunity Summer Jam 2020
+# Qiskit Community Summer Jam 2020
 * Event page:
 
 * Github page:
