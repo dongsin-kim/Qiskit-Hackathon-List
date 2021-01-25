@@ -24,7 +24,7 @@
 | 9 | 2020 | Aug 06 - Aug 19 | [Qiskit Community Summer Jam 2020 (Phase 2)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) |  | University College Dublin, etc.
 | 10 | 2020 | Oct 05 - Oct 09 | [Qiskit Hackathon Global 2020](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Global%202020.md) | IBM's Qiskit Community Team | 
 | 11 | 2021 | Jan 30 - Jan 31 | [MIT iQuHACK 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/iQuHACK%202021.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/)
-| 12 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Global 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) |  | KAIST, SKKU, and IBM Quantum
+| 12 | 2021 | Feb 15 - Feb 18 | [Qiskit Hackathon Korea 2021](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Hackathon%20Korea%202021.md) |  | KAIST, SKKU, and IBM Quantum
 
 
 ## References
