@@ -20,7 +20,7 @@
 | 5 | 2019 | 13 Nov - 16 Nov | [CSS Qiskit Hackathon](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/CSS%20Qiskit%20Hackathon.md)                           | University of Birmingham      | Cristian Calauz                        |
 | 6 | 2019 | 9 Dec - 10 Dec | [Qiskit Hackathon Bilbao](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/Qiskit%20Hackathon%20Bilbao%2019.md)                           |       | INNOLAB Bilbao, IBM, QUTIS Center, UPV / EHU                       |
 | 7 | 2020 | 31 Jan - 2 Feb | [MIT iQuHACK](https://github.com/HuangJunye/Qiskit-Hackathon-Guide/blob/master/Past%20Qiskit%20Hackathons/Qiskit%20Hackathons/iQuHACK%202020.md) | MIT | [iQuISE](https://www.iquise.mit.edu/leadership/)
-| 8 | 2020 | 17 Jun - 26 Jun | [Qiskit Community Summer Jam 2020 (Phase 1)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) |  | North Carolina, New England, Midwest, California area schools
+| 8 | 2020 | 17 Jun - 26 Jun | [Qiskit Community Summer Jam 2020 (Phase 1)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) |  | North Carolina, New England, Midwest, and California area schools
 | 9 | 2020 | Aug 06 - Aug 19 | [Qiskit Community Summer Jam 2020 (Phase 2)](https://github.com/dongsin-kim/Qiskit-Hackathon-List/blob/main/Qiskit%20Hackathons/Qiskit%20Community%20Summer%20Jam%202020.md) |  | University College Dublin, etc.
 
 
